@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "devDependencies": {
+    "plastique": "git://github.com/codeplastique/plastique.git#0bc983b9a1cb82d154cec13b669aefcb6461b4db"
+  },
+  "dependencies": {
+    "plastique": "git://github.com/codeplastique/plastique.git#0bc983b9a1cb82d154cec13b669aefcb6461b4db"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/codeplastique/types-plastique.git"
