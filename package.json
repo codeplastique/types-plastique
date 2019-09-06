@@ -1,0 +1,19 @@
+{
+  "name": "@types/plastique",
+  "version": "1.0.0",
+  "description": "Typescript library based on vue.js, typescri[t and some utility classes",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeplastique/types-plastique.git"
+  },
+  "author": "Bondarenko Artem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeplastique/types-plastique/issues"
+  },
+  "homepage": "https://github.com/codeplastique/types-plastique#readme"
+}
