@@ -4,6 +4,7 @@ import Cached from "plastique/annotation/Cached";
 import EntryPoint from "plastique/annotation/EntryPoint";
 import Listener from "plastique/annotation/Listener";
 import Reactive from "plastique/annotation/Reactive";
+import OnChange from "plastique/annotation/OnChange";
 
 import App from "plastique/App";
 import Component from "plastique/Component";
