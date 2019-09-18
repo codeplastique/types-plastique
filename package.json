@@ -7,10 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "plastique": "git://github.com/codeplastique/plastique.git#73b67675d63412edd36de8e2f111ecb806f6bd2d"
+    "plastique": "git://github.com/codeplastique/plastique.git#7831e52382a5db346af636c1e2b72e0eefe8c386"
   },
   "dependencies": {
-    "plastique": "git://github.com/codeplastique/plastique.git#73b67675d63412edd36de8e2f111ecb806f6bd2d"
+    "plastique": "git://github.com/codeplastique/plastique.git#7831e52382a5db346af636c1e2b72e0eefe8c386"
   },
   "repository": {
     "type": "git",
